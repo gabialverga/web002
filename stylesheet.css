@@ -21,11 +21,11 @@ div {
 	border: 2px dashed #6A1B9A;
 	background-color: #E040FB;
 	height: 50px;
-	width: 120px;
-	margin: auto;
+	width: 150px;
+	padding-top:15px;
 	text-align: center;
 }
 
 p:first-child { 
-    margin-top:400px;
+    margin-top:300px;
 }
