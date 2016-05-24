@@ -1,9 +1,14 @@
 body {
-	background: "http://www.planwallpaper.com/static/images/518169-backgrounds.jpg";
+	background-image: "http://www.planwallpaper.com/static/images/518169-backgrounds.jpg";
 	bgproprit: fixed;
 }
 p {
 	text-align: center;
-	font-family: Arial;
-	font-size: 30px;
+	font-family: Garamond, serif;
+	font-size: 18px;
+}
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
 }
