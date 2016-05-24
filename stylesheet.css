@@ -2,16 +2,20 @@ body {
 	background-image: url(http://www.planwallpaper.com/static/images/518169-backgrounds.jpg);
 	bgproprit: fixed;
 }
+
 p {
+	margin-top:200px;
 	text-align: center;
-	font-family: Garamond, serif;
-	font-size: 18px;
+	font-family: Courier New;
+	font-size: 30px;
 }
+
 a {
 	text-decoration: none;
 	color: #3D59AB;
-	font-family: Verdana, sans-serif;
+	font-family: Courier New;
 }
+
 div {
 	border-radius: 5px;
 	border: 2px solid #6495ED;
