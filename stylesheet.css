@@ -30,3 +30,6 @@ div {
 p:first-child { 
     margin-top:300px;
 }
+table{
+	margin: auto;
+}
